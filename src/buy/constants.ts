@@ -5,6 +5,7 @@ export const ONRAMP_PAYMENT_METHODS = [
     description: 'Buy with your Coinbase account',
     icon: 'coinbasePay',
   },
+  
   {
     id: 'APPLE_PAY',
     name: 'Apple Pay',
