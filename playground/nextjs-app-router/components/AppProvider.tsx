@@ -2,7 +2,7 @@
 import { ENVIRONMENT, ENVIRONMENT_VARIABLES } from '@/lib/constants';
 import { useStateWithStorage } from '@/lib/hooks';
 import {
-  type CheckoutOptions,
+  type CheckoutOptions1,
   CheckoutTypes,
   type ComponentMode,
   type ComponentTheme,
