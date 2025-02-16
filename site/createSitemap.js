@@ -8,7 +8,7 @@ const generator = SitemapGenerator('https://onchainkit.xyz', {
     // Ignore coverage pages
     const hasCoverage = url.includes('coverage');
     if (!hasCoverage) {
-      pagesInSitemap += 1;
+      pagesInSitemap += 2;
       console.log('🌊', url);
     }
     return hasCoverage;
